@@ -1,3 +1,10 @@
 1.virtualbox 安装centos7
 2.安装git命令
-3.
+3.安装maven，tomcat
+4.配置网络虚拟机与主机相互通信，配置虚拟的网络为桥接方式
+常用命令
+tar zxvf xx.tar.gz -C /export/xx 解压缩到指定目录
+tar zxvf xx.tar.gz 解压缩到当前目录
+mv oldfilenamepath newfilenamepath 重命名文件名
+
+
