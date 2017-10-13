@@ -7,4 +7,7 @@ tar zxvf xx.tar.gz -C /export/xx 解压缩到指定目录
 tar zxvf xx.tar.gz 解压缩到当前目录
 mv oldfilenamepath newfilenamepath 重命名文件名
 
+scp 远程用户名@IP地址：文件的绝对路径 本地Linux系统路径 
+scp 本地Linux系统文件路径 远程用户名@IP地址：远程系统文件绝对路径名
+
 
