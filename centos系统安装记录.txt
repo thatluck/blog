@@ -10,4 +10,7 @@ mv oldfilenamepath newfilenamepath 重命名文件名
 scp 远程用户名@IP地址：文件的绝对路径 本地Linux系统路径 
 scp 本地Linux系统文件路径 远程用户名@IP地址：远程系统文件绝对路径名
 
+grep -A50 "Exception:" /data/export/logs/logistics/eub-outer.log|less
+
+
 
